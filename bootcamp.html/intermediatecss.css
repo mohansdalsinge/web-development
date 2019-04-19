@@ -1,0 +1,86 @@
+/*font family
+p{
+    font-family:"arial";
+}
+h1{
+    font-family: Georgia;
+}
+font size
+h1{
+    font-size: 50px;
+}
+span{
+    font-size:2.0em;
+}
+/*font weight
+p{
+    font-weight:indie flower;
+}
+/*line weight
+p{
+    line-height:2;
+}
+/*text allign
+h1{
+    text-align:center;
+}
+p{
+    text-align:centre;
+}
+/*text decorator
+p{
+    text-decoration: underline;
+}
+p{
+    border: 2px solid blue;
+    width: 50%;
+    padding-left:100px;
+    margin:10px;
+}
+h1{
+    text-align: center;
+}
+td{
+    width:100px;
+    height:100px;
+    
+
+}
+.vertical{
+    border-left: 1px solid black;
+    border-right:1px solid black;
+}
+.horizontal{
+    border-top: 1px solid black;
+    border-bottom:1px solid black;
+
+}
+table{
+    margin:auto;
+}
+img{
+    width:30%;
+    float: left;
+    margin: 1.66%;
+}*/
+body{
+    border:20px solid grey;
+    padding:20px;
+    width:700px;
+    margin:20px auto;
+    
+}
+.quote{
+    border-left:5px solid grey;
+    padding-left:2px;
+}
+.date{
+    color:blue;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+hr{
+    border:px;
+    width: 1px;
+    
+}

@@ -1,0 +1,43 @@
+h1{
+    color: deeppink;
+    border-color:purple;
+    border-width:1px;
+    border-style:solid;
+}
+h3{
+    background-color: deeppink
+}
+li{
+    background-color: dodgerblue;
+}
+body{
+    background :url("C:\Users\shivanand\Documents\Autodesk Application Manager\web html\Desert.jpg")
+}
+#special{
+    background: gold
+}
+.akash{
+    background:blue;
+    text-decoration:line-through;
+}
+/**{
+    border:1px solid gold;
+}
+descendant selector;;;;;;;;
+adjecent selector;;;;;;;;
+star selector;;;;;;;;;
+li a{
+    background-color: darkgreen;
+}*/
+h2{
+    border:4px solid red;
+}
+ul{
+    color:blue;
+}
+li{
+    color:gold;
+}
+p{
+    font-size: 25px;
+}
